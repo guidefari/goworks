@@ -1,1 +1,2 @@
+- following [this tutorial](https://go.dev/doc/tutorial/workspaces)
 - git clone https://go.googlesource.com/example
